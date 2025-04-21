@@ -2,7 +2,7 @@
 
 A classic Snake game built with Phaser.js 3.
 
-🎮 [Play the game](https://canguven.github.io/phase-js-snake/)
+🎮 [Play the game](https://can-guven.github.io/phaser-js-snake/)
 
 ![Snake Game Screenshot](./assets/screenshot.png)
 
@@ -61,4 +61,4 @@ The game is automatically deployed to GitHub Pages when changes are pushed to th
 npm run deploy
 ```
 
-Visit the live game at: https://canguven.github.io/phase-js-snake/
+Visit the live game at: https://can-guven.github.io/phaser-js-snake/
