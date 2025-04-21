@@ -1,0 +1,22 @@
+{
+  "name": "phaser-snake-game",
+  "version": "1.0.0",
+  "description": "A simple snake game built with Phaser.js",
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel src/index.html --open",
+    "build": "parcel build src/index.html --public-url ./",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "phaser": "^3.70.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "buffer": "^6.0.3",
+    "process": "^0.11.10",
+    "gh-pages": "^6.1.1"
+  }
+} 
